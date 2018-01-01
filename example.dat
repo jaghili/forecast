@@ -1,0 +1,21 @@
+100
+
+quotidien
+eat		-7
+
+hebdo
+restaurant 	-30
+casino 		100
+
+mensuel
+rent 		-600
+salary 		3000
+bills 		-200
+
+ponctuel
+taxes 		-1000 	150
+bigtrip 	-1500 	80
+
+random
+randomevent1	-100 	0.0001
+randomevent2 	-10 	0.001
