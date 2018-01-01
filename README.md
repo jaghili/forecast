@@ -28,4 +28,4 @@ bigtrip 	-1500 	80    #
 
 random
 randomevent1	-100 	0.0001 # <name> <loss/gain> <probability this event happens each day>
-randomevent2 	-10 	0.001  
+randomevent2 	-10 	0.001 
