@@ -1,13 +1,18 @@
 # forecast
 A very simple script to forecast a given amount based on deterministic/stochastic rules in time
 
-Compile with :
+# Compile with :
+```
 g++ fc.cpp
+```
 
-run: 
+# run:
+```
 ./a.out example.dat
+```
 
-syntax of example.dat (# are comments, they must not be present in the dat file.):
+# syntax of example.dat (# are comments, they must not be present in the dat file.):
+```
 100                 # number 
 
 quotidien           # marker for daily events
@@ -29,3 +34,4 @@ bigtrip 	-1500 	80    #
 random
 randomevent1	-100 	0.0001 # <name> <loss/gain> <probability this event happens each day>
 randomevent2 	-10 	0.001 
+```
